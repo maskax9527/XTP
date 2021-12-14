@@ -1,0 +1,13 @@
+dns:
+  port: 5353
+  address: 101.6.6.6
+servers:
+  cu-nj:
+    port: 443
+    address: 180.97.104.168
+  cu-bj:
+    port: 443
+    address: 180.97.104.168
+  cu-gd:
+    port: 443
+    address: 180.97.104.168
